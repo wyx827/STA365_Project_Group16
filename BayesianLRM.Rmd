@@ -1,6 +1,6 @@
 ---
-title: "ST406 - Bayesian LRM"
-author: "P.I.N.Kehelbedda"
+title: "STA365"
+author: "Shaw"
 date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
